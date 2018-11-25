@@ -1,0 +1,16 @@
+h2{
+font-family: algerian;
+}
+h1{
+font-family: algerian;
+}
+body {
+    background-image: url("cbg.jpg");
+}
+input[type="submit"]
+{
+ 
+}
+.logout{
+padding:14px 30px 0px 0px;
+}
